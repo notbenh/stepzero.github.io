@@ -1,1 +1,1 @@
-Step Zero is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike license](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US), version 4.0.
+Step Zero is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike license](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) (aka CC BY-NC-SA, version 4.0.
