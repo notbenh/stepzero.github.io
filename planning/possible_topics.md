@@ -1,4 +1,4 @@
-* Behavioral
+* Etiquette
   * "How To's"
        * Patience
        * Understanding
