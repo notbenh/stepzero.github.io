@@ -11,6 +11,7 @@
        * Willingness to learn
        * Willingness to ask questions
   * How to use and behave on IRC
+  * How to write a bug report
   * Where to ask questions (x link with "concepts" below?)
  
 * Concepts
