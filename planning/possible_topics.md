@@ -10,8 +10,8 @@
        * Understanding
        * Willingness to learn
        * Willingness to ask questions
-     * How to use and behave on IRC
-   * Where to ask questions (x link with "concepts" below?)
+  * How to use and behave on IRC
+  * Where to ask questions (x link with "concepts" below?)
  
 * Concepts
    * Basics
@@ -53,8 +53,9 @@
 * Technologies
    * Should "Basics" go here?
    * Source Control
-     * Git
-     * SVN
+        * Git
+        * SVN
+   * Markdown
    * How to read a stack trace
    
 * Tools
