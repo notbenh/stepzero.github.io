@@ -48,7 +48,7 @@ So, how to help?
 
 Alternatively:
 
-1. Just open a [GitHub issue](](https://github.com/stepzero/stepzero.github.io/issues) for anything you'd like us to write or any changes you'd like to see.
+1. Just open a [GitHub issue](https://github.com/stepzero/stepzero.github.io/issues) for anything you'd like us to write or any changes you'd like to see.
 
 All pages are written in [GitHub-flavored Markdown](https://help.github.com/articles/github-flavored-markdown). We'll have a style guide posted at some point soon (sooner, if we start getting more contributors).
 
