@@ -1,5 +1,4 @@
 # StepZero
-==================
 
 _Before taking the first step of any journey, you must prepare. You must take StepZero._
 
@@ -38,7 +37,7 @@ So those friends decided to do something about it. That was the start of StepZer
 
 ## How to help
 
-We love helpers! Unfortunately, until we get a little more writing done, this section is going to assume a bit of knowledge. Apologies! Writing those pages are our top priority.
+We love helpers! Unfortunately, until we get a little more writing done, this section is going to assume a bit of knowledge. Apologies! Writing those pages is our top priority.
 
 So, how to help?
 
