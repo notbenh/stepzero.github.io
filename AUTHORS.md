@@ -8,9 +8,9 @@ If you've helped and are not represented below, please let us know! It's undoubt
 
 ## Key
 
-Name: How you wish to be known. Need not be your real name. REQUIRED.
-Freenet IRC: Your nick on Freenet. Join us on #stepzero. OPTIONAL.
-Github ID: Your Github profile ID (from which you send StepZero pull requests). OPTIONAL.
+* **Name**: How you wish to be known. Need not be your real name. REQUIRED.
+* **Freenet IRC**: Your nick on Freenet. Join us on #stepzero. OPTIONAL.
+* **Github ID**: Your Github profile ID (from which you send StepZero pull requests). OPTIONAL.
 
 ## Contributors
 
