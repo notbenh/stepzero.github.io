@@ -4,7 +4,7 @@
 
 Github is a service that hosts [git](#git)
 [repositories](version_control#repositories) and offers other features
-to assist in running a coding project.
+to assist in running and collaborating on projects.
 
 ## Other Resources
 
