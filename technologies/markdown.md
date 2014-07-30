@@ -9,5 +9,6 @@ generally HTML.
 
 ## More information
 
+* [Daring Fireball](http://daringfireball.net/projects/markdown/)
 * [What is Markdown](http://whatismarkdown.com/)
 * [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
