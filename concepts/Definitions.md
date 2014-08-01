@@ -1,0 +1,15 @@
+development environment ("dev environment")
+: the collection of tools, libraries, and any other service that is used
+to make a project run. Generally this is though of in many different
+stages so a developer working on a project on there own workstation
+will have a 'local' development environment, that they may push to a
+server with its own 'testing' development environment.
+
+deploying ("ship")
+: to move or publish in such a way to make it public. Though there is
+some complication as this can take many forms from minor updates to a
+web page to a new version of a product that a user is expected to
+download.
+
+stack trace
+: a long form fatal error that includes a history of the code path that created this error condition. 
